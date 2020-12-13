@@ -1,0 +1,1 @@
+Fungsi return bertujuan untuk mengakhri eksekusi dari function tersebut, dan return juga dapat memberikan nilai pada saat akhir dari function kepada pemanggil

@@ -1,0 +1,2 @@
+Parameter Formal adalah variabel yang ada pada daftar parameter dalam definisi fungsi.
+Parameter aktual adalah parameter yang dapat berupa variabel konstanta maupun ungkapan dipakai dalam pemanggilan fungsi.

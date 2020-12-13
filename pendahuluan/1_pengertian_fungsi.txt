@@ -1,0 +1,4 @@
+Suatu kumpulan dari pernyataan - pernyataan. Pernyataan tersebut sering kali dipanggil berulang - ulang pada beberapa
+tempat di program yang sama, sehingga membuat program menjadi tidak efisien. 
+dengan pembuatan suatu fungsi, maka pengulangan pernyataan - pernyataan tsb tidak perlu terjadi, karena kita dapat
+memanggil kembali fungsi tersebut.

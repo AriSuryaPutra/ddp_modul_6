@@ -1,0 +1,1 @@
+Perbedaan utama antara kedua metode adalah, call by value panggilan dengan  nilai suatu variabel dan call by reference panggilan dengan alamat variabel.
